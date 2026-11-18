@@ -1,0 +1,1928 @@
+{
+  "id": "utokyo-a00-6461-yixue-yuanliu-prefaces",
+  "title": "《醫學源流》兩序與刊記（東京大學總合圖書館 A00:6461，1611）",
+  "english_title": "Yi xue yuan liu [Two Prefaces and the Colophon of the 1611 Edition]",
+  "version": "0.1.0",
+  "date": "2026-11-18",
+  "editor": {
+    "name": "Chu, Chen-Yu",
+    "orcid": "0009-0003-9738-6914"
+  },
+  "language": "lzh",
+  "historical_authors": [
+    "吳高（尚志）",
+    "熊宗立"
+  ],
+  "rights_note": "Historical text is public domain. Original editorial documentation and markup are CC BY 4.0 where applicable.",
+  "source": {
+    "citation": "東京大學總合圖書館藏 A00:6461《醫學源流》，1611 年梅壽刊古活字本。",
+    "catalog": "https://da.dl.itc.u-tokyo.ac.jp/portal/en/assets/04eb8b46-81e0-4fed-525c-439a76849d10",
+    "manifest": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/manifest",
+    "holdings": "General Library, The University of Tokyo",
+    "historical_title": "醫學源流",
+    "shelfmark": "A00:6461",
+    "edition_year": 1611,
+    "edition_year_evidence": "慶長辛亥五月日梅壽刊",
+    "facsimile_manifest_count": 58,
+    "manifest_sha256": "37525ef712a94b820f603acf8bae147d4d3b1313a4ff9311bb8a8475999add45",
+    "image_rights": "Public Domain",
+    "metadata_rights": "CC0",
+    "reuse_policy": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+  },
+  "coverage": {
+    "physical_faces": 7,
+    "column_units": 51,
+    "complete_book": false,
+    "included": "兩篇完整序文與單獨梅壽刊記",
+    "remaining_content": [
+      "正文",
+      "書口",
+      "館藏印",
+      "其他題記",
+      "未定位的手寫墨跡"
+    ]
+  },
+  "descriptive_layers": {
+    "body": "古活字本印刷主欄，自右向左。",
+    "annotations": "代表性朱線與黑色訓點定位，無逐痕點校。",
+    "coordinates": "2400×1800 IIIF 影像的 0-based x,y,width,height；工作區框可包含字周訓點。",
+    "uncertainty_offsets": "0-based half-open Unicode code points."
+  },
+  "quality": {
+    "ai_assisted": true,
+    "human_full_double_collation": false,
+    "reference_accuracy_measurement": false,
+    "peer_reviewed": false
+  },
+  "sections": [
+    {
+      "id": "preface-1",
+      "type": "preface",
+      "label": "吳高（尚志）序",
+      "text_date": 1458
+    },
+    {
+      "id": "preface-2",
+      "type": "preface",
+      "label": "熊宗立自序",
+      "text_date": 1446
+    },
+    {
+      "id": "imprint",
+      "type": "colophon",
+      "label": "梅壽刊記",
+      "text_date": 1611
+    }
+  ],
+  "pages": [
+    {
+      "id": "face-04L",
+      "canvas_index": 4,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p4",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0004.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "23ee61a22853f540e6e551f83bea93b992d57f17a361b04349c81ee896f6b3ae",
+      "scope_xywh": [
+        238,
+        500,
+        971,
+        1075
+      ]
+    },
+    {
+      "id": "face-05R",
+      "canvas_index": 5,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p5",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0005.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "ad07fe93f8c65254ed5c8a41e2ff52e4a119b8fa7b17ac22142d7116b1700a77",
+      "scope_xywh": [
+        1211,
+        500,
+        930,
+        1080
+      ]
+    },
+    {
+      "id": "face-05L",
+      "canvas_index": 5,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p5",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0005.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "ad07fe93f8c65254ed5c8a41e2ff52e4a119b8fa7b17ac22142d7116b1700a77",
+      "scope_xywh": [
+        245,
+        500,
+        964,
+        1080
+      ]
+    },
+    {
+      "id": "face-06R",
+      "canvas_index": 6,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p6",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0006.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "2a7f1ec0eea6de851abc472631f683fbf4b3fd7310d8c65851bd7bfe8ba6d2dc",
+      "scope_xywh": [
+        1210,
+        500,
+        935,
+        1090
+      ]
+    },
+    {
+      "id": "face-06L",
+      "canvas_index": 6,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p6",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0006.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "2a7f1ec0eea6de851abc472631f683fbf4b3fd7310d8c65851bd7bfe8ba6d2dc",
+      "scope_xywh": [
+        264,
+        500,
+        939,
+        1090
+      ]
+    },
+    {
+      "id": "face-07R",
+      "canvas_index": 7,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p7",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0007.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "3b686d0884af2e62068b33945c4dce214cb3ab4c69c05f1926ff49084f78904c",
+      "scope_xywh": [
+        1217,
+        500,
+        918,
+        1090
+      ]
+    },
+    {
+      "id": "face-56L-imprint",
+      "canvas_index": 56,
+      "canvas": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/canvas/p56",
+      "image_reference": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/soto_gakken_202305/TIFF/A00_6461/A00_6461_0056.tif/full/2400,/0/default.jpg",
+      "source_dimensions": [
+        2400,
+        1800
+      ],
+      "source_sha256": "e3928ba759a337024b2a32a87307d1cc6ffd893db83592a4688d157972aac09f",
+      "scope_xywh": [
+        277,
+        860,
+        156,
+        708
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "line-04L-c01",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 1,
+      "text": "新刋名方類證醫書大全序",
+      "xywh": [
+        1077,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "新刋名方類證醫書大全",
+          "source_xywh": [
+            1122,
+            642,
+            21,
+            494
+          ],
+          "note": "題名旁朱線，部分褪色。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "未見可定位的本欄訓讀墨記",
+      "uncertainties": [
+        {
+          "start": 1,
+          "end": 2,
+          "reading": "刋",
+          "alternatives": [
+            "刊"
+          ],
+          "basis": "左件首筆有斜鉤。首序題據館目亦寫刋。"
+        }
+      ]
+    },
+    {
+      "id": "line-04L-c02",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 2,
+      "text": "建陽熊均宗立勿軒後人也自幼嬰疾甫十",
+      "xywh": [
+        994,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "建陽熊均宗立",
+          "source_xywh": [
+            1036,
+            654,
+            22,
+            278
+          ],
+          "note": "朱線與題姓名。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 15,
+          "end": 16,
+          "reading": "甫",
+          "alternatives": [
+            "南"
+          ],
+          "basis": "字與印色疊壓，左與中豎較近甫。"
+        }
+      ]
+    },
+    {
+      "id": "line-04L-c03",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 3,
+      "text": "歲受業仁齋劉先生之門天資頴敏書無不",
+      "xywh": [
+        910,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "仁齋劉先生",
+          "source_xywh": [
+            947,
+            806,
+            22,
+            273
+          ],
+          "note": "朱線穿近題姓名。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "無不",
+          "source_xywh": [
+            945,
+            1447,
+            73,
+            83
+          ],
+          "visible_shapes": [
+            "片假名形",
+            "返讀符號形"
+          ],
+          "note": "欄底小字及返點並見，未逐痕定讀。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 12,
+          "end": 13,
+          "reading": "頴",
+          "alternatives": [
+            "穎"
+          ],
+          "basis": "底部左件近示。"
+        }
+      ]
+    },
+    {
+      "id": "line-04L-c04",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 4,
+      "text": "讀讀無不通早承師訓以醫道有活人之功",
+      "xywh": [
+        831,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "無不通",
+          "source_xywh": [
+            835,
+            718,
+            80,
+            183
+          ],
+          "visible_shapes": [
+            "一二類返點",
+            "レ形",
+            "片假名形"
+          ],
+          "note": "三字周邊為小字訓讀區。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-04L-c05",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 5,
+      "text": "極留心焉乃取古人醫學源流所著方書會",
+      "xywh": [
+        749,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "醫學源流",
+          "source_xywh": [
+            762,
+            1038,
+            31,
+            174
+          ],
+          "note": "朱線跨書名。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "所著",
+          "source_xywh": [
+            738,
+            1213,
+            88,
+            116
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "正文主文不含此鉤及小字。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-04L-c06",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 6,
+      "text": "同一選始於風寒暑濕終於小方脈科釐為",
+      "xywh": [
+        667,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "editorial_note": "高解析區域的下件見里形，本文採釐。"
+    },
+    {
+      "id": "line-04L-c07",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 7,
+      "text": "二十四卷名曰醫書大全刋傳四方予得而",
+      "xywh": [
+        584,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "醫書大全",
+          "source_xywh": [
+            600,
+            933,
+            34,
+            196
+          ],
+          "note": "朱線跨書名。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-04L-c08",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 8,
+      "text": "讀之如登崑山瓊瑤琅玕粲然畢陳如入武",
+      "xywh": [
+        499,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "崑山",
+          "source_xywh": [
+            539,
+            830,
+            34,
+            85
+          ],
+          "note": "朱線跨二字。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "陳如入",
+          "source_xywh": [
+            503,
+            1280,
+            85,
+            159
+          ],
+          "visible_shapes": [
+            "上",
+            "下",
+            "片假名形"
+          ],
+          "note": "版框內本欄左側可見上下返點，訓讀順序待日本古文書覆核。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-04L-c09",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 9,
+      "text": "庫戈矛甲冑森然具備究病之所由起審藥",
+      "xywh": [
+        411,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "具備究病",
+          "source_xywh": [
+            407,
+            965,
+            91,
+            211
+          ],
+          "visible_shapes": [
+            "上",
+            "三",
+            "片假名形"
+          ],
+          "note": "多種側寫並存，樣式已定位。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-04L-c10",
+      "page_id": "face-04L",
+      "section": "preface-1",
+      "column": 10,
+      "text": "之所宜用所以體天地好生之仁在是所以",
+      "xywh": [
+        327,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c01",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 1,
+      "text": "廣",
+      "xywh": [
+        2004,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c02",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 2,
+      "text": "聖朝一視同仁之心亦在是矣嗟夫人生兩間",
+      "xywh": [
+        1924,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "是矣嗟夫",
+          "source_xywh": [
+            1928,
+            1035,
+            89,
+            198
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "折鉤與小字筆畫獨立於活字。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c03",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 3,
+      "text": "陰陽風雨晦冥感其外男女飲食之欲傷其",
+      "xywh": [
+        1842,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c04",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 4,
+      "text": "内疾疢生焉扁鵲思邈之良世不常有治病",
+      "xywh": [
+        1756,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "扁鵲思邈",
+          "source_xywh": [
+            1790,
+            926,
+            24,
+            166
+          ],
+          "note": "朱線跨人名，讀字同見疑字層。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "生焉",
+          "source_xywh": [
+            1758,
+            853,
+            92,
+            121
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "兩字之間附近有折鉤。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 5,
+          "end": 7,
+          "reading": "扁鵲",
+          "alternatives": [],
+          "basis": "朱線穿過兩字，第二字右部近鳥，按可見字形與上下文暫讀。"
+        }
+      ]
+    },
+    {
+      "id": "line-05R-c05",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 5,
+      "text": "者其可以無方乎然古今專門名家或得此",
+      "xywh": [
+        1674,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c06",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 6,
+      "text": "失彼家無全書人無全見臨證用藥幾何不",
+      "xywh": [
+        1591,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c07",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 7,
+      "text": "至於誤耶宗立自幼至長採摭之勤服食之",
+      "xywh": [
+        1504,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "宗立",
+          "source_xywh": [
+            1546,
+            834,
+            23,
+            102
+          ],
+          "note": "朱線跨人名。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 11,
+          "end": 12,
+          "reading": "摭",
+          "alternatives": [
+            "撥",
+            "掇"
+          ],
+          "basis": "可辨手旁，右件多筆黏合。"
+        }
+      ]
+    },
+    {
+      "id": "line-05R-c08",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 8,
+      "text": "精所謂三折肱而知醫之良也是編之行業",
+      "xywh": [
+        1425,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c09",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 9,
+      "text": "術者得以取衆論而折衷僻遠無醫者亦得",
+      "xywh": [
+        1347,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "僻遠",
+          "source_xywh": [
+            1343,
+            1127,
+            96,
+            131
+          ],
+          "visible_shapes": [
+            "上",
+            "片假名形"
+          ],
+          "note": "上點與右側小字同時可見。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05R-c10",
+      "page_id": "face-05R",
+      "section": "preface-1",
+      "column": 10,
+      "text": "以依方而救濟倉卒無夭橫之憂頃刻有回",
+      "xywh": [
+        1267,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c01",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 1,
+      "text": "生之力立心何其仁且博哉其視得一方秘",
+      "xywh": [
+        1076,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "立",
+          "source_xywh": [
+            1110,
+            776,
+            24,
+            69
+          ],
+          "note": "「立」旁見短朱痕。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c02",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 2,
+      "text": "而不以與人者大有逕庭矣昔人謂達則願",
+      "xywh": [
+        992,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "與人者",
+          "source_xywh": [
+            984,
+            776,
+            104,
+            163
+          ],
+          "visible_shapes": [
+            "上",
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "與、人的返讀點以小墨筆示。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c03",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 3,
+      "text": "為良相不達願為良醫夫相之與醫勢位雖",
+      "xywh": [
+        904,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c04",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 4,
+      "text": "相懸絶而其調燮元氣以壽吾民之命脈心",
+      "xywh": [
+        825,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c05",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 5,
+      "text": "則一也宗立是編豈非良醫之用心乎由是",
+      "xywh": [
+        745,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "宗立",
+          "source_xywh": [
+            777,
+            788,
+            18,
+            106
+          ],
+          "note": "朱線跨二字。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c06",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 6,
+      "text": "推而達之於良相之事有不難矣噫相之用",
+      "xywh": [
+        660,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "有不難",
+          "source_xywh": [
+            664,
+            1077,
+            88,
+            166
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "返讀符號位置及小字範圍。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c07",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 7,
+      "text": "心皆能如宗立之用心庶乎天下之福乎宗",
+      "xywh": [
+        583,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "宗立",
+          "source_xywh": [
+            617,
+            828,
+            18,
+            113
+          ],
+          "note": "朱線跨二字。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "宗",
+          "source_xywh": [
+            606,
+            1439,
+            19,
+            58
+          ],
+          "note": "另一「宗」上見朱痕。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "福乎宗",
+          "source_xywh": [
+            588,
+            1332,
+            68,
+            163
+          ],
+          "visible_shapes": [
+            "片假名形"
+          ],
+          "note": "右側小筆畫，詞形未定。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-05L-c08",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 8,
+      "text": "立以為何如昔",
+      "xywh": [
+        499,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "立",
+          "source_xywh": [
+            534,
+            634,
+            13,
+            49
+          ],
+          "note": "續上欄「宗立」，短朱痕。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "editorial_note": "高解析原圖下件為日，字形作昔。語意可參哉。",
+      "uncertainties": [
+        {
+          "start": 5,
+          "end": 6,
+          "reading": "昔",
+          "alternatives": [
+            "哉"
+          ],
+          "basis": "原圖下件作日，保留昔形。哉可供語意參照。"
+        }
+      ]
+    },
+    {
+      "id": "line-05L-c09",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 9,
+      "text": "大明天順二年歲在戊寅六月初吉",
+      "xywh": [
+        413,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "大明",
+          "source_xywh": [
+            469,
+            628,
+            16,
+            110
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "天順",
+          "source_xywh": [
+            419,
+            737,
+            24,
+            96
+          ],
+          "note": "朱線近左。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "未見可定位的本欄訓讀墨記"
+    },
+    {
+      "id": "line-05L-c10",
+      "page_id": "face-05L",
+      "section": "preface-1",
+      "column": 10,
+      "text": "賜進士秋官員外太中大夫資治少尹福建等",
+      "xywh": [
+        335,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "賜進士",
+          "source_xywh": [
+            343,
+            611,
+            22,
+            151
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "秋官員外",
+          "source_xywh": [
+            345,
+            737,
+            29,
+            190
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "太中大夫",
+          "source_xywh": [
+            336,
+            947,
+            23,
+            193
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "資治少尹",
+          "source_xywh": [
+            349,
+            1145,
+            36,
+            204
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "福建",
+          "source_xywh": [
+            384,
+            1364,
+            20,
+            102
+          ],
+          "note": "朱引。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "未見可定位的本欄訓讀墨記"
+    },
+    {
+      "id": "line-06R-c01",
+      "page_id": "face-06R",
+      "section": "preface-1",
+      "column": 1,
+      "text": "處承宣布政使司右參政惠陽吳高尚志書",
+      "xywh": [
+        2000,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "處承宣布政使司",
+          "source_xywh": [
+            2014,
+            649,
+            18,
+            350
+          ],
+          "note": "連續朱線，與官銜重疊。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "右參政",
+          "source_xywh": [
+            2016,
+            1004,
+            21,
+            124
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "惠陽",
+          "source_xywh": [
+            2055,
+            1160,
+            13,
+            72
+          ],
+          "note": "朱引。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "吳高尚志書",
+          "source_xywh": [
+            2038,
+            1243,
+            12,
+            213
+          ],
+          "note": "朱線與署款重疊。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "書",
+          "source_xywh": [
+            2011,
+            1467,
+            64,
+            56
+          ],
+          "visible_shapes": [
+            "ス形"
+          ],
+          "note": "末字右下墨筆小形，未定是否動詞送假名。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c01",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 1,
+      "text": "醫善專門方貴經驗古今方書傳於世者甚衆",
+      "xywh": [
+        1070,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c02",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 2,
+      "text": "蓋初學之士猶臨海問津焉能適從哉書林舊",
+      "xywh": [
+        994,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c03",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 3,
+      "text": "刋文近孫氏醫方集成後之名醫續增宣明拔",
+      "xywh": [
+        911,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "文近",
+          "source_xywh": [
+            962,
+            657,
+            19,
+            103
+          ],
+          "note": "朱墨與旁線。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "孫氏醫方集成",
+          "source_xywh": [
+            946,
+            760,
+            29,
+            289
+          ],
+          "note": "朱引跨書名。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "宣明拔",
+          "source_xywh": [
+            948,
+            1352,
+            24,
+            154
+          ],
+          "note": "朱引跨本欄書名片段。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "孫氏",
+          "source_xywh": [
+            910,
+            767,
+            81,
+            120
+          ],
+          "visible_shapes": [
+            "片假名形"
+          ],
+          "note": "紅線與毛筆訓假名分記。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c04",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 4,
+      "text": "萃等方又謂之大成是皆經歷効驗有不待試",
+      "xywh": [
+        828,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "萃",
+          "source_xywh": [
+            864,
+            611,
+            29,
+            47
+          ],
+          "note": "上欄書名續字有朱痕。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "大成",
+          "source_xywh": [
+            846,
+            926,
+            33,
+            90
+          ],
+          "note": "朱引跨書名。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c05",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 5,
+      "text": "而百發百中者誠衞生之捷徑也然其方中證",
+      "xywh": [
+        746,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c06",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 6,
+      "text": "類混雜分兩欠明俾我同志不無憾焉余自幼",
+      "xywh": [
+        667,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "不無憾",
+          "source_xywh": [
+            658,
+            1110,
+            84,
+            158
+          ],
+          "visible_shapes": [
+            "上",
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "返點位置與小字區。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c07",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 7,
+      "text": "多病喜讀醫書暇日因取前方艾證歸類措方",
+      "xywh": [
+        582,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "艾證歸類",
+          "source_xywh": [
+            575,
+            1214,
+            97,
+            182
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "連續墨筆訓讀點；不以此替正文讀字。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 12,
+          "end": 13,
+          "reading": "艾",
+          "alternatives": [
+            "考"
+          ],
+          "basis": "圖上見艸頭與交叉下筆。考為上下文候選。"
+        }
+      ]
+    },
+    {
+      "id": "line-06L-c08",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 8,
+      "text": "入條復選諸名方中有得奇効而孫氏未嘗採",
+      "xywh": [
+        502,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "孫氏",
+          "source_xywh": [
+            534,
+            1246,
+            24,
+            108
+          ],
+          "note": "朱引跨人名。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "有得奇効",
+          "source_xywh": [
+            487,
+            1007,
+            100,
+            190
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "黑色多層小記與主文分記。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-06L-c09",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 9,
+      "text": "者與夫家世傳授之祕總彚成編凡二十四卷",
+      "xywh": [
+        413,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "總彚成編",
+          "source_xywh": [
+            397,
+            1059,
+            100,
+            200
+          ],
+          "visible_shapes": [
+            "片假名形"
+          ],
+          "note": "右側確見小訓，仍需逐痕覆核。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 10,
+          "end": 11,
+          "reading": "彚",
+          "alternatives": [
+            "彙"
+          ],
+          "basis": "上件近彐，下件簇筆相疊。"
+        }
+      ]
+    },
+    {
+      "id": "line-06L-c10",
+      "page_id": "face-06L",
+      "section": "preface-2",
+      "column": 10,
+      "text": "目之曰醫書大全各卷分門各門折類各類載",
+      "xywh": [
+        329,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "醫書大全",
+          "source_xywh": [
+            342,
+            711,
+            41,
+            197
+          ],
+          "note": "朱引跨書名。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "目之曰",
+          "source_xywh": [
+            332,
+            578,
+            84,
+            158
+          ],
+          "visible_shapes": [
+            "ナ・ヅ・ケ・テ・イ・フ形"
+          ],
+          "note": "此區可見連續小字，僅按筆形暫記，不替換底本文字。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-07R-c01",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 1,
+      "text": "方方名之上次序順流以一二三四之數而標",
+      "xywh": [
+        2020,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-07R-c02",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 2,
+      "text": "記之與目錄互相貫通使人展卷提其綱領而",
+      "xywh": [
+        1935,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "使人展卷",
+          "source_xywh": [
+            1932,
+            1024,
+            96,
+            216
+          ],
+          "visible_shapes": [
+            "下",
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "小墨筆形態交迭。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-07R-c03",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 3,
+      "text": "節目分明治病之際審其證候而方藥備具得",
+      "xywh": [
+        1849,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "分明治病",
+          "source_xywh": [
+            1844,
+            675,
+            97,
+            194
+          ],
+          "visible_shapes": [
+            "上",
+            "片假名形"
+          ],
+          "note": "上點靠近分明與治病交界。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-07R-c04",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 4,
+      "text": "無檢閱之繁庶免狐疑之患書成藏于家塾以",
+      "xywh": [
+        1765,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "無檢閱",
+          "source_xywh": [
+            1767,
+            566,
+            83,
+            184
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "首字及下數字兼具訓讀符號。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-07R-c05",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 5,
+      "text": "供自治之焉非敢謂之當也坊中好事者固請",
+      "xywh": [
+        1677,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "謂之當",
+          "source_xywh": [
+            1673,
+            943,
+            87,
+            154
+          ],
+          "visible_shapes": [
+            "片假名形"
+          ],
+          "note": "右側小字與近字分記。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 4,
+          "end": 5,
+          "reading": "焉",
+          "alternatives": [
+            "需"
+          ],
+          "basis": "底部呈垂點，圖形較接近焉。需為上下文候選。"
+        }
+      ]
+    },
+    {
+      "id": "line-07R-c06",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 6,
+      "text": "梓行與衆共之余不能已因述其梗槩題諸篇",
+      "xywh": [
+        1594,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "不能已",
+          "source_xywh": [
+            1591,
+            920,
+            85,
+            174
+          ],
+          "visible_shapes": [
+            "折鉤",
+            "片假名形"
+          ],
+          "note": "跨主欄折鉤及黑色小訓。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定",
+      "uncertainties": [
+        {
+          "start": 14,
+          "end": 15,
+          "reading": "槩",
+          "alternatives": [
+            "概"
+          ],
+          "basis": "圖上近既下木的字形。"
+        }
+      ]
+    },
+    {
+      "id": "line-07R-c07",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 7,
+      "text": "端云",
+      "xywh": [
+        1509,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-07R-c08",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 8,
+      "text": "正統十一年歲在丙寅暮春之初鼇峯熊宗立",
+      "xywh": [
+        1430,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "正統",
+          "source_xywh": [
+            1444,
+            583,
+            22,
+            213
+          ],
+          "note": "朱引涵蓋年號一段，止界待細核。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "鼇峯熊宗立",
+          "source_xywh": [
+            1456,
+            1246,
+            33,
+            266
+          ],
+          "note": "朱線近地望、銜姓名。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "未見可定位的本欄訓讀墨記"
+    },
+    {
+      "id": "line-07R-c09",
+      "page_id": "face-07R",
+      "section": "preface-2",
+      "column": 9,
+      "text": "道軒序",
+      "xywh": [
+        1353,
+        575,
+        79,
+        960
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "道軒",
+          "source_xywh": [
+            1380,
+            581,
+            34,
+            166
+          ],
+          "note": "朱線沿道軒及鄰字。"
+        }
+      ],
+      "black_ink_locator_examples": [
+        {
+          "kind": "black-reading-mark",
+          "nearby_printed_sequence": "序",
+          "source_xywh": [
+            1358,
+            690,
+            72,
+            66
+          ],
+          "visible_shapes": [
+            "ス形"
+          ],
+          "note": "下方側寫，暫不作精讀定字。"
+        }
+      ],
+      "black_ink_observation": "見附小訓／符號，文字和逐痕範圍未全部裁定"
+    },
+    {
+      "id": "line-56L-imprint-c01",
+      "page_id": "face-56L-imprint",
+      "section": "imprint",
+      "column": 1,
+      "text": "慶長辛亥五月日梅壽刊",
+      "xywh": [
+        306,
+        885,
+        79,
+        551
+      ],
+      "red_ink_locator_examples": [
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "慶長",
+          "source_xywh": [
+            321,
+            891,
+            17,
+            96
+          ],
+          "note": "朱線在刊年號旁。"
+        },
+        {
+          "kind": "red-ink-guide",
+          "nearby_printed_sequence": "梅壽",
+          "source_xywh": [
+            348,
+            1240,
+            18,
+            111
+          ],
+          "note": "朱線在刊行者名旁。"
+        }
+      ],
+      "black_ink_locator_examples": [],
+      "black_ink_observation": "未見可定位的本欄訓讀墨記"
+    }
+  ]
+}
