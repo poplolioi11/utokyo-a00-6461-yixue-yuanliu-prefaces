@@ -7,3 +7,5 @@
 本版收入兩篇序文及刊記，共 7 個書面區和 51 欄。JSON 和 TEI P5 的欄位可以回到館方 IIIF 影像，TXT 另提供逐欄及連讀版。JSON 附朱引、墨筆訓點的定位示例。以兩份 AI 依圖獨立讀稿比較，回圖後保留 10 處疑讀。尚無人類全文雙校、專家審定或準確率量測。
 
 [東大館目](https://da.dl.itc.u-tokyo.ac.jp/portal/en/assets/04eb8b46-81e0-4fed-525c-439a76849d10) · [館方 IIIF manifest](https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/04eb8b46-81e0-4fed-525c-439a76849d10/manifest)
+
+[Zenodo v0.1.0 固定封存](https://doi.org/10.5281/zenodo.24345257) · [資料集各版](https://doi.org/10.5281/zenodo.24345256)
